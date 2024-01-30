@@ -2,4 +2,4 @@
 *.pyc
 .env/*
 *.ipynb_checkpoints/*
-datasets/cifar-10-batches-py/*
+.datasets/cifar-10-batches-py/*
