@@ -1,1 +1,1 @@
-# Stanford University CS231n 2019 assignments
+# Stanford University CS231n 2023 assignments
