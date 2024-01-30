@@ -3,6 +3,7 @@ import numpy as np
 from random import shuffle
 from past.builtins import xrange
 
+
 def softmax_loss_naive(W, X, y, reg):
     """
     Softmax loss function, naive implementation (with loops)
@@ -87,7 +88,6 @@ def softmax_loss_vectorized(W, X, y, reg):
     dW += np.dot(X.T, Softmax - Is_correct)
     dW /= num_train
     dW += 2 * reg * W
-
 
     # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
