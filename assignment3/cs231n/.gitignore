@@ -1,0 +1,5 @@
+__pycache__/
+datasets/cifar-10-batches-py/
+datasets/coco_captioning/
+datasets/MNIST_data/
+datasets/imagenet_val_25.npz
